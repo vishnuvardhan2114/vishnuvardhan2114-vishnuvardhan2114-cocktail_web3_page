@@ -21,6 +21,7 @@ const App = () => {
       <Art />
       <Menu />
       <Contact />
+      
     </main>
   );
 };
